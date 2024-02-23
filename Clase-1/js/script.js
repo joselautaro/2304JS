@@ -25,7 +25,7 @@
 
 // Operadores de asignación: =
 
-// Operadores lógicos: +, -, /, *, ++, --
+// Operadores lógicos: +, -, /, *, ++, --, &&
 
 // Operadores de comparación: 
 
